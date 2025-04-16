@@ -41,3 +41,5 @@
 */.DS_Store
 */Thumbs.db
 goodreads_export/ven
+monorepo-dynamic-styles-example/angular-app/node_modules
+monorepo-dynamic-styles-example/angular-app/projects/components/src/lib

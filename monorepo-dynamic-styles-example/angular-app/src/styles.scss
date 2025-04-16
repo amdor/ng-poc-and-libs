@@ -1,0 +1,11 @@
+@use "components/main.scss" as components;
+
+$config: (
+  lib-button-background-color: rgb(159, 38, 159),
+  lib-button-color: white,
+
+  lib-card-border: 1px solid black
+);
+
+
+@include components.components($config);
